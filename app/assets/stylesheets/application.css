@@ -1,0 +1,14 @@
+@import "bootstrap/scss/bootstrap";
+
+.image {
+  background-size: cover;
+  width: 300px;
+  height: 200px;
+}
+
+.image img {
+display: none;
+}
+body {
+
+}
